@@ -1,0 +1,1 @@
+cmd='C:/Users/Dilesh/.espressif/tools/cmake/3.13.4/bin/cmake.exe;-DSDKCONFIG=C:/Users/Dilesh/Code/ESP32/ESP32_IOT/sdkconfig;-DIDF_PATH=C:/Users/Dilesh/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DEXTRA_COMPONENT_DIRS=C:/Users/Dilesh/esp/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'
